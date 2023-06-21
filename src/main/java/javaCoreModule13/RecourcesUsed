@@ -1,0 +1,45 @@
+***
+HTTP Status Codes Glossary
+This list is an easy-to-reference database of HTTP status
+https://www.webfx.com/web-development/glossary/http-status-codes/
+
+***
+Методы HTTP запроса (get, head, post, put,.......)
+https://developer.mozilla.org/ru/docs/Web/HTTP/Methods
+
+https://www.youtube.com/watch?v=tkfVQK6UxDI
+
+https://www.youtube.com/watch?v=guYMSP7JVTA
+
+https://www.youtube.com/watch?v=qVTAB8Z2VmA
+
+
+***
+API Specification
+https://docs.oracle.com/en/java/javase/11/docs/api/index.html
+
+***
+Introduction to the Java HTTP Client
+https://openjdk.org/groups/net/httpclient/intro.html
+
+***
+Examples and Recipes
+https://openjdk.org/groups/net/httpclient/recipes.html
+
+***
+Asynchronous HTTP with async-http-client in Java
+https://www.baeldung.com/async-http-client
+
+
+***
+Java.net.HttpURLConnection Class in Java
+https://www.geeksforgeeks.org/java-net-httpurlconnection-class-java/?ref=lbp
+
+***
+CRUD Operations – What is CRUD?
+https://www.freecodecamp.org/news/crud-operations-explained/#:~:text=CRUD%20refers%20to%20the%20four,data%2C%20and%20delete%20the%20data.
+
+***
+About Optional Class
+https://www.geeksforgeeks.org/java-8-optional-class/
+

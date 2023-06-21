@@ -1,7 +1,7 @@
-package javaCoreModule13;
+package javaCoreModule13.httpPractice;
 
 import java.io.*;
-import java.net.HttpURLConnection; //лас HttpURLConnection з пакету java.net може використовуватися для того,
+import java.net.HttpURLConnection; //клас HttpURLConnection з пакету java.net може використовуватися для того,
 // щоб надсилати з Java програми HTTP запити.
 import java.net.URL;
 import java.nio.file.Files;
